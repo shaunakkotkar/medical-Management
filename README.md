@@ -1,5 +1,4 @@
 # Medical Store Management System
-### Developed by, Abhishek Sharma, 2021
 In this project I have deployed a Medical Store Management System as a Web App using PHP and MySQL
 
  # Set Up to run this system in your PC/Laptop :
